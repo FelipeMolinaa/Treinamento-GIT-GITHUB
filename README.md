@@ -1,3 +1,5 @@
+# Treinamento-GIT-GITHUB
+Utilizarei este repositório para aprender a utilizar o GITHUB e os comandos do GIT utilizando o GITBash
 "git init" - inicia um projeto
 "git add nome_do_arquivo" - adiciona um arquivo ou atualiza uma mudança
 "git commit -m 'mensagem'" - adiciona uma mensagem a alteração
