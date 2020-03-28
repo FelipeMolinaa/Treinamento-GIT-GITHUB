@@ -17,3 +17,4 @@ Utilizarei este repositório para aprender a utilizar o GITHUB e os comandos do 
 * `git push` - utilizado apos registar o origin e master
 * `git clone http://linkClone` - baixa um projeto do github
 * `git pull` - atualiza o projeto de acordo com o ja existente no github
+#%&@¨&$%¨*&¨$%¨@#$¨&*&*(!@#$!@#!#¨$%¨&*(¨&*(!!#@#$HGCXVBR#¨$%$%¨¨%&
