@@ -8,9 +8,11 @@ Utilizarei este repositório para aprender a utilizar o GITHUB e os comandos do 
 * `git show` - verifica as ultimas alterações nos arquivos
 * `git branch nomeLinha` - cria uma nova linha temporal
 * `git checkout nomeLinha` - vai para esta linha temporal
+* `git checkout -b nomeLinha` - cia uma branch e vai para esta linha do tempo
 * `git branch` - lista todas as linhas do tempo
 * `git merge nomeLinha` - adiciona os arquivos da linha do tempo que voce selecionou, na linha do tempo que voce esta
 * `git branch -d nomeLinha` - remove a linha do tempo bvc   
 * `git remote add origin https://linkDoRepositorio` - registra um repositorio do arquivo
 * `git push -u origin master` - manda o projeto master para o repositorio origin
 * `git push` - utilizado apos registar o origin e master
+* `git clone http://linkClone` - baixa um projeto do github
