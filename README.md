@@ -27,15 +27,11 @@
 * `git merge nomeLinha` - Mescla a linha do tempo atual com a especificada.
 * `git branch -d nomeLinha` - Remove a linha do tempo. 
 
-
+<img width="500" alt="Esquema do branch" src="documents/esquemaBranch.png" >
 
 **Para que serve???**
 
 > O uso de linhas do tempo, ou **branchs** tem como função possibilitar o dev modificar o código principal, e fazer o seu versionamento, sem que o código principal seja alterado, assim as modificações são jogadas para um segunda linha do tempo, que futuramente, se concluído pode ser juntado com a **branch** principal, e caso essa alteração venha a ser descontinuada, ela pode ser apenas excluída, sem que haja qualquer problema com a **branch** principal
-
-<img width="500" alt="React and Redux Logo" src="documents/esquemabranch.png" >
-
-
 
 ### Resolvendo conflitos
 
@@ -75,7 +71,7 @@
 
 **Como funciona os arquivos do GIT**
 
-<img width="500" alt="React and Redux Logo" src="documents/esquema.png" >
+<img width="500" alt="Esquema do git" src="documents/esquema.png" >
 
 * **blob** - Amarelo: Arquivos do seu projeto.
   * Possui o conteúdo do arquivo e o seu **sha1.**
@@ -93,4 +89,4 @@
 
 **Ciclo de vida dos arquivos no GIT**
 
-<img width="500" alt="React and Redux Logo" src="documents/esquemacommit.png" >
+<img width="500" alt="Ciclo de vida do Git" src="documents/esquemaCommit.png" >
